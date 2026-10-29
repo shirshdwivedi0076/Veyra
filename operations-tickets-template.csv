@@ -1,0 +1,4 @@
+ticket_id,created_at,due_at,priority,category,status,assignee,team,resolved_at,customer_impact
+TK-1001,2026-10-29T10:00:00,2026-10-29T12:00:00,High,Billing,Open,Agent A,Billing,,Payment pending
+TK-1002,2026-10-29T10:15:00,2026-10-29T14:15:00,Medium,Delivery,Open,Agent B,Support,,Order delayed
+TK-1003,2026-10-29T09:00:00,2026-10-29T10:00:00,Critical,Refund,Resolved,Agent C,Billing,2026-10-29T09:42:00,Refund requested

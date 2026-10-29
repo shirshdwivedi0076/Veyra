@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 58" role="img" aria-label="VEYRA">
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE58A"/><stop offset=".55" stop-color="#F5C542"/><stop offset="1" stop-color="#D99A13"/></linearGradient></defs>
+  <path d="M8 8h20l17 30L62 8h20L49 52H41L8 8Z" fill="url(#gold)"/>
+  <path d="M39 8h20L45 31 35 17Z" fill="#0B0D10" opacity=".9"/>
+  <text x="91" y="39" fill="#F7F8FA" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="5">VEYRA</text>
+</svg>
